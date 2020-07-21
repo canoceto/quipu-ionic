@@ -1,0 +1,7 @@
+{
+  "name": "quipus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
